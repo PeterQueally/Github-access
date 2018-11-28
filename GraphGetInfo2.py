@@ -41,4 +41,4 @@ with open('Data2.csv', 'w', newline='') as myfile:
       wr.writerows(export_data)
 myfile.close()
 
-webbrowser.open("SocialGraphDisplayInfo2.html")
+webbrowser.open("DisplaySocialGraphInfo2.html")
